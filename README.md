@@ -1,7 +1,7 @@
 # yoTime
 yoTime是一个简单友好的工作计时器，有助于专注工作，及时休息，避免久坐。
 
-**[去下载 ❯](https://gitee.com/yoodu/yoTime/releases/)**    （目前只支持mac，后续考虑支持windows）  [备用下载 ❯](https://github.com/yoodu/yoTime/releases/latest)
+**[去下载 ❯](https://github.com/yoodu/yoTime/releases/latest)**    （目前只支持mac，后续考虑支持windows）  [备用下载 ❯](https://gitee.com/yoodu/yoTime/releases/)
 
 ## 功能特点
 
