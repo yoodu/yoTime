@@ -1,15 +1,24 @@
+
+
 # yoTime
-yoTime是一个简单友好的工作计时器，有助于专注工作，及时休息，避免久坐。
 
-**[去下载 ❯](https://github.com/yoodu/yoTime/releases/latest)**    （目前只支持mac，后续考虑支持windows）  [备用下载 ❯](https://gitee.com/yoodu/yoTime/releases/)
+[中文](https://gitee.com/yoodu/yoTime)
 
-## 功能特点
+yoTime is a simple and friendly work timer that helps to concentrate on work, rest in time, and avoid sedentary.
 
-- 支持全局快捷键控制：启动计时（ctrl+alt+1）、停止计时（ctrl+alt+2）
-- 支持指定APP自动计时
-- 支持全屏、通知和不显示等多种方式的计时结束提醒
-- 友好的铃声提示（可关闭）
-- 简洁的图标倒计时显示剩余时间
+[Download ❯](https://github.com/yoodu/yoTime/releases/latest) (Currently only supports Mac, consider supporting windows in the future) 
+
+[Alternate download ❯](https://gitee.com/yoodu/yoTime/releases/)
+
+
+
+## Features
+
+- Support global shortcut key to control: start timing (ctrl+alt+1), stop timing (ctrl+alt+2)
+- Support auto start timing at specified APP
+- A variety of remind for end of timing  such as full screen, notification and non-display
+- Friendly ringtone reminder (can be turned off)
+- Simple icon countdown shows remaining time
 
 
 
@@ -17,31 +26,33 @@ yoTime是一个简单友好的工作计时器，有助于专注工作，及时�
 
 
 
-## 使用方式
-
-1. 安排工作任务，分配25分钟的工作内容
-2. 开启计时（快捷键）
-3. 专注任务直到计时结束
-4. 休息5分钟
-5. 连续4次后休息15分钟
 
 
+## How to use
 
-### 关于番茄工作法
-
-yoTime可以用于番茄工作法，番茄工作法是一种时间管理法，使用定时器将时间分隔为25分钟的工作时间和5分钟的休息时间，工作期间专注工作，中途不允许做任何与任务无关的事，有助于：
-
-- 集中注意力，减少中断
-- 促进任务划分，增强决策意识，提高任务可执行性
-- 唤醒激励和持久激励，巩固达成目标的决心，减轻时间焦虑
+1. Schedule work tasks and assign 25 minutes of work
+2. Turn on timing (shortcut key)
+3. Focus on the task until the end of time
+4. Rest for 5 minutes
+5. Take a 15-minute break after 4 consecutive sessions
 
 
 
-## 彩蛋
+## About the Pomodoro Technique
 
-yoTime 源于自己日常工作的时间和精力管理的需要，随着年纪增大和常年久坐加班（一坐1、2个小时），身体每况日下，为了避免身体恶化，便制作了这款具有强提示的产品，希望大家喜欢，欢迎在issue反馈问题和提意见。
+yoTime can be used in the Pomodoro Technique. The Pomodoro Technique is a time management method. The timer is used to divide the time into a 25-minute working time and a 5-minute rest time. During the work, focus on the work and do not allow you to do anything irrelevant to the task. Things that help:
 
-后续打算增加数据记录功能，以更好的记录工作时间。
+-Concentrate and reduce interruptions
+-Promote task division, enhance decision-making awareness, and improve task enforceability
+-Awaken and lasting incentives, consolidate the determination to achieve goals and reduce time anxiety
 
 
-. . . 更多功能，敬请期待！
+
+## Easter egg
+
+yoTime stems from the need for time and energy management in your daily work. With the increase of age and long hours of overtime work (1 and 2 hours per sitting), the body is in poor condition every day. Strongly prompted products, I hope you like it, welcome to feedback questions and comments in issue.
+
+In the future, we plan to add data recording function to better record working time.
+
+... More features, stay tuned!
+
